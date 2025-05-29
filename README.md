@@ -1,4 +1,4 @@
-# LitScan – A GPT-Assisted Tool for Systematic Literature Review on Theory of Mind in LLMs
+# LitScan – A GPT-Assisted Tool for Systematic Literature 
 
 **LitScan** is a semi-automated pipeline for conducting systematic reviews on scientific papers using Large Language Models (LLMs). Originally developed during a research internship at ENS-PSL, it is tailored to support meta-analyses on Theory of Mind (ToM) capabilities in LLMs.
 
